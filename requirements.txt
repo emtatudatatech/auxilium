@@ -1,8 +1,5 @@
 streamlit
-langchain
-faiss-cpu
-transformers
-huggingface-hub
-sentence-transformers
-langchain-community
-PyPDF2
+google-generativeai
+pymupdf
+python-dotenv
+numpy
